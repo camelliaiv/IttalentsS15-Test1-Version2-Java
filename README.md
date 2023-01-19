@@ -1,4 +1,4 @@
-# Ittalents, Test 1, Version 2, Java
+# Ittalents Season 15, Test 1, Version 2, Java
 Task №1: Write a program that reads two int values separated by space – each one – the value of a dice. Possible inputs are from 1 to 6. The inputs are infinite. The pro- gram must stop when there have been 5 consecutive throws of a pair. Finally, the pro- gram must ouput the total number of throws as well as the number of sequences of throws that had a pair but did not end the program (were more than 2 but less than 5).
 
 Task №2: Write a function that takes a varible that holds some text. The function must print the longest and shortest words in the text. Also the function must print the most common symbol in the text as well as the number of times it had been met.
